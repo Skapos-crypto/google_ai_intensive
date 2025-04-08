@@ -95,7 +95,7 @@ python main.py
 [Add screenshots/GIFs of your project in action]
 
 ### Project Resources
-- [Kaggle Notebook]([your_kaggle_link](https://www.kaggle.com/code/mohamedaymanelkhatib/ai-powered-news-summarizer))
+- - [📓 Project Notebook](https://www.kaggle.com/mohamedaymanelkhatib](https://www.kaggle.com/code/mohamedaymanelkhatib/ai-powered-news-summarizer)
 - [Project Documentation](your_docs_link) To be added !
 
 ## 🤝 Contributing
@@ -107,10 +107,6 @@ This project is [MIT](LICENSE) licensed.
 ## 🙏 Acknowledgments
 - Google AI Team for the intensive program
 - Program mentors and fellow participants
-
-### Project Resources
-- [📓 Kaggle Notebook: AI News Summarizer]([https://www.kaggle.com/mohamedaymanelkhatib](https://www.kaggle.com/code/mohamedaymanelkhatib/ai-powered-news-summarizer))
-- [📊 Project Documentation](your_docs_link) To be added !
 
 
 ### Connect With Me
