@@ -43,24 +43,6 @@ An intelligent news aggregation and summarization system that tackles informatio
 - **Real-Time Processing**: Efficient handling of news feeds
 - **Relevance Ranking**: Advanced scoring system for content relevance
 
-### Technical Architecture
-```
-📁 Project Structure
-├── 📂 data_collection
-│   ├── news_fetcher.py
-│   └── rss_handler.py
-├── 📂 processing
-│   ├── summarizer.py
-│   └── embedder.py
-├── 📂 recommendation
-│   ├── rag_system.py
-│   └── vector_store.py
-├── 📂 evaluation
-│   └── metrics.py
-└── 📂 dashboard
-    └── news_dashboard.py
-```
-
 ### Technologies Used
 - Google Generative AI (Gemini)
 - ChromaDB
