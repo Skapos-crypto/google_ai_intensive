@@ -95,7 +95,7 @@ python main.py
 [Add screenshots/GIFs of your project in action]
 
 ### Project Resources
-- - [📓 Project Notebook](https://www.kaggle.com/mohamedaymanelkhatib](https://www.kaggle.com/code/mohamedaymanelkhatib/ai-powered-news-summarizer)
+- - [📓 Project Notebook](https://www.kaggle.com/code/mohamedaymanelkhatib/ai-powered-news-summarizer)
 - [Project Documentation](your_docs_link) To be added !
 
 ## 🤝 Contributing
